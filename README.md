@@ -16,11 +16,9 @@ If you're not sure about the following, you probably need a little help before y
 *	What's <a href="http://devdocs.magento.com/guides/v2.0/install-gde/basics/basics_software.html">MySQL</a>?
 
 <h2>Step 1: Verify your prerequisites</h2>
-
 Use the following table to verify you have the correct prerequisites to install the Magento software.
-
 <table>
-	<tbody>
+<tbody>
 		<tr>
 			<th>Prerequisite</th>
 			<th>How to check</th>
@@ -43,7 +41,6 @@ Use the following table to verify you have the correct prerequisites to install 
 	</tr>
 </tbody>
 </table>
-
 <h2>Step 2: Prepare to install</h2>
 
 After verifying your prerequisites, perform the following tasks in order to prepare to install the Magento software.
